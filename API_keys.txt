@@ -1,1 +1,4 @@
  pixels API Key : dg8HC6g5T8LrAjSH8rwgApmRw0Wa7TDtfcDfMoTMWBEujVexqng5at7d
+
+
+model link : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
